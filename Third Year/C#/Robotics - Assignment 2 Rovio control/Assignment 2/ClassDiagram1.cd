@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Rovio.ImageProcessor">
+    <Position X="31.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAQACEAAEAAAAAAAACAAAAAAgAAAAAAACAAgIA=</HashCode>
+      <FileName>ImageProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.ObjectSizes" Collapsed="true">
+    <Position X="33.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEBAgAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObjectSizes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.Predator">
+    <Position X="2.75" Y="3.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="Rovio.Predator.robotState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Predator.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AggAAQAAABAAUAAAgAAQAAAAAAAAAAAEAAAAAAAwgAA=</HashCode>
+      <FileName>Predator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.RobotBase">
+    <Position X="5.25" Y="4.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Rovio.RobotBase.ImageReady" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RobotBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgDBAIIEAEAAAAAASAAAAACoEAAIAACAAAAAAAKAAAA=</HashCode>
+      <FileName>RobotBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.Robot" Collapsed="true">
+    <Position X="2.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAIAAAEAAAAAAAgAAAAwAEAAAQAAAAAAAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.Component" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAABAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.Camera" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAoAAAAAAAAAAAIgAAACAAEAAgIBAAAChAAABAAIA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.Odometry" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAoAAAAAAAAAAAAEAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.IRSensor" Collapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.NavigationSensor" Collapsed="true">
+    <Position X="22" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAACAAAAAAAAAAAAAAAAAAAAAABgIAAAYAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.Drive" Collapsed="true">
+    <Position X="26.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAACAQAoAAAAAAIAAAAAAAAAEAAEAIBAAACAAIAI=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Workshop_2___Forms.ImageViewer" Collapsed="true">
+    <Position X="35.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAACAAAAACEAAEDAAAABBAAAAAAAABAAAA=</HashCode>
+      <FileName>ImageViewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Workshop_2___Forms.MainForm" Collapsed="true">
+    <Position X="37" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAADAAAAAAAACEEAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Workshop_2___Forms.Program" Collapsed="true">
+    <Position X="35.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Workshop_2___Forms.Properties.Resources" Collapsed="true">
+    <Position X="37" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Workshop_2___Forms.Properties.Settings" Collapsed="true">
+    <Position X="33.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.API.MovementComponent" Collapsed="true">
+    <Position X="28.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.API.Movement" Collapsed="true">
+    <Position X="28.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCASCBCgAAogEAQAAJABAAEAABEAEAAAAgEkQCEBaA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.API.Camera" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAQAAAgAAAAACAAAAhAAoA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.API.User" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgEAAAAAAAACAAAAAAAEAABAAAAAAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.API.Time" Collapsed="true">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.API.Network" Collapsed="true">
+    <Position X="24.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAABAAAAAgAAACAAAAAiAAIAAAAAEAAAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.API.Server" Collapsed="true">
+    <Position X="31" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.API.Mail" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAQAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.API.Other" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEIgAAAEFCAAAAAAAAAAAIgwAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rovio.API.API" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAADAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAwQAAQA=</HashCode>
+      <FileName>Rovio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Rovio.FilterColour" Collapsed="true">
+    <Position X="33.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAAABAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>ImageProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Ball.png</Source>
+      <Name>Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2\bin\x86\Debug\Content\Ball.xnb</Output>
+      <Time>2013-04-29T13:58:11.6132076+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Paddle.png</Source>
+      <Name>Paddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2\bin\x86\Debug\Content\Paddle.xnb</Output>
+      <Time>2013-04-29T14:58:28.4970815+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.jpg</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2013-04-29T18:47:49.1861479+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StarBackground.jpg</Source>
+      <Name>StarBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2\bin\x86\Debug\Content\StarBackground.xnb</Output>
+      <Time>2013-05-01T14:22:24.158614+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ball2.png</Source>
+      <Name>ball2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2\bin\x86\Debug\Content\ball2.xnb</Output>
+      <Time>2013-05-01T18:02:27.1837839+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD.spritefont</Source>
+      <Name>HUD</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2\bin\x86\Debug\Content\HUD.xnb</Output>
+      <Time>2013-04-30T19:41:49.5144125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bounce.wav</Source>
+      <Name>Bounce</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2\bin\x86\Debug\Content\Bounce.xnb</Output>
+      <Time>2013-05-01T14:35:10.7884627+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explode.wav</Source>
+      <Name>explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2\bin\x86\Debug\Content\explode.xnb</Output>
+      <Time>2013-05-01T14:30:49.5475206+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Timerfont.spritefont</Source>
+      <Name>Timerfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2\bin\x86\Debug\Content\Timerfont.xnb</Output>
+      <Time>2013-05-01T21:31:01.0805378+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2Content\</RootDirectory>
+      <LoggerRootDirectory>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Uni\Graphics and games programming\Assignment2\Assignment2\Assignment2\Assignment2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Kinect\v4.0_1.7.0.0__31bf3856ad364e35\Microsoft.Kinect.dll</Key>
+        <Value>2013-04-28T18:14:50.5714527+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-05T20:19:05.6476546+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

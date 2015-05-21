@@ -1,0 +1,12 @@
+Content\Ball.xnb
+Content\Paddle.xnb
+Content\Background.xnb
+Content\StarBackground.xnb
+Content\ball2.xnb
+Content\HUD.xnb
+Content\Timerfont.xnb
+Content\Bounce.xnb
+Content\explode.xnb
+Content\Sounds.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb

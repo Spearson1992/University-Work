@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="2178fd5e-33ef-4a31-8e34-be9a82cf5c7c"
+  name="IO"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="78b68b9e-6659-43e2-a33b-c516ad4ff1d1"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DSystem.IO"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="ff80f946-a455-44f7-8a82-c3137d4e5618"
+        name="Stream"
+        isAbstract="true"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="5d1e8c84-9776-4dff-9c63-c0556883452f"
+            handle="viewcode://./CodeSchema_Class?Assembly%3Dfile:%2F%2F%2FC:%2FWindows%2FMicrosoft.NET%2FFramework%2Fv2.0.50727%2Fmscorlib.dll Namespace%3DSystem.IO Type%3DStream"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="74d4aead-d99c-4688-a6ca-86c28955442a"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="70917618-5919-4c69-ac00-8998fa41db04">
+                <propertyInstance
+                  Id="82ccea87-1e9a-411a-ab1e-6119b8fa0e24"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="42f18b0a-a352-41c9-9352-35791f859bb6">
+                <propertyInstance
+                  Id="061088fa-6ac1-4f1f-9269-c761037f9a49"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="0c85b9ee-c14f-44b4-8828-5b9b70b66bc6">
+                <propertyInstance
+                  Id="d5bfcd93-3df5-4253-8522-d5b23cc3ab40"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="a369a373-c73b-471b-913d-2c4d89982c98">
+                <propertyInstance
+                  Id="d694b762-ca89-4b46-a262-a9db99fc5d86"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="886514f7-1cf7-4576-b310-82adf5697449">
+                <propertyInstance
+                  Id="91245e93-ea1f-4765-815c-2137cc9ce037"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

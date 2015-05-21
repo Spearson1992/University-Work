@@ -1,0 +1,784 @@
+00
+Neighbour 2X: 1 Y: 0
+Neighbour 3X: 1 Y: 1
+Neighbour 4X: 0 Y: 1
+10
+Neighbour 2X: 2 Y: 0
+Neighbour 3X: 2 Y: 1
+Neighbour 4X: 1 Y: 1
+Neighbour 5X: 0 Y: 1
+Neighbour 6X: 0 Y: 0
+20
+Neighbour 2X: 3 Y: 0
+Neighbour 3X: 3 Y: 1
+Neighbour 4X: 2 Y: 1
+Neighbour 5X: 1 Y: 1
+Neighbour 6X: 1 Y: 0
+30
+Neighbour 2X: 4 Y: 0
+Neighbour 3X: 4 Y: 1
+Neighbour 4X: 3 Y: 1
+Neighbour 5X: 2 Y: 1
+Neighbour 6X: 2 Y: 0
+40
+Neighbour 2X: 5 Y: 0
+Neighbour 3X: 5 Y: 1
+Neighbour 4X: 4 Y: 1
+Neighbour 5X: 3 Y: 1
+Neighbour 6X: 3 Y: 0
+50
+Neighbour 2X: 6 Y: 0
+Neighbour 3X: 6 Y: 1
+Neighbour 4X: 5 Y: 1
+Neighbour 5X: 4 Y: 1
+Neighbour 6X: 4 Y: 0
+60
+Neighbour 2X: 7 Y: 0
+Neighbour 3X: 7 Y: 1
+Neighbour 4X: 6 Y: 1
+Neighbour 5X: 5 Y: 1
+Neighbour 6X: 5 Y: 0
+70
+Neighbour 2X: 8 Y: 0
+Neighbour 3X: 8 Y: 1
+Neighbour 4X: 7 Y: 1
+Neighbour 5X: 6 Y: 1
+Neighbour 6X: 6 Y: 0
+80
+Neighbour 2X: 9 Y: 0
+Neighbour 3X: 9 Y: 1
+Neighbour 4X: 8 Y: 1
+Neighbour 5X: 7 Y: 1
+Neighbour 6X: 7 Y: 0
+90
+Neighbour 4X: 9 Y: 1
+Neighbour 5X: 8 Y: 1
+Neighbour 6X: 8 Y: 0
+01
+Neighbour 0X: 0 Y: 0
+Neighbour 1X: 1 Y: 0
+Neighbour 2X: 1 Y: 1
+Neighbour 3X: 1 Y: 2
+Neighbour 4X: 0 Y: 2
+11
+Neighbour 0X: 1 Y: 0
+Neighbour 1X: 2 Y: 0
+Neighbour 2X: 2 Y: 1
+Neighbour 3X: 2 Y: 2
+Neighbour 4X: 1 Y: 2
+Neighbour 5X: 0 Y: 2
+Neighbour 6X: 0 Y: 1
+Neighbour 7X: 0 Y: 0
+21
+Neighbour 0X: 2 Y: 0
+Neighbour 1X: 3 Y: 0
+Neighbour 2X: 3 Y: 1
+Neighbour 3X: 3 Y: 2
+Neighbour 4X: 2 Y: 2
+Neighbour 5X: 1 Y: 2
+Neighbour 6X: 1 Y: 1
+Neighbour 7X: 1 Y: 0
+31
+Neighbour 0X: 3 Y: 0
+Neighbour 1X: 4 Y: 0
+Neighbour 2X: 4 Y: 1
+Neighbour 3X: 4 Y: 2
+Neighbour 4X: 3 Y: 2
+Neighbour 5X: 2 Y: 2
+Neighbour 6X: 2 Y: 1
+Neighbour 7X: 2 Y: 0
+41
+Neighbour 0X: 4 Y: 0
+Neighbour 1X: 5 Y: 0
+Neighbour 2X: 5 Y: 1
+Neighbour 3X: 5 Y: 2
+Neighbour 4X: 4 Y: 2
+Neighbour 5X: 3 Y: 2
+Neighbour 6X: 3 Y: 1
+Neighbour 7X: 3 Y: 0
+51
+Neighbour 0X: 5 Y: 0
+Neighbour 1X: 6 Y: 0
+Neighbour 2X: 6 Y: 1
+Neighbour 3X: 6 Y: 2
+Neighbour 4X: 5 Y: 2
+Neighbour 5X: 4 Y: 2
+Neighbour 6X: 4 Y: 1
+Neighbour 7X: 4 Y: 0
+61
+Neighbour 0X: 6 Y: 0
+Neighbour 1X: 7 Y: 0
+Neighbour 2X: 7 Y: 1
+Neighbour 3X: 7 Y: 2
+Neighbour 4X: 6 Y: 2
+Neighbour 5X: 5 Y: 2
+Neighbour 6X: 5 Y: 1
+Neighbour 7X: 5 Y: 0
+71
+Neighbour 0X: 7 Y: 0
+Neighbour 1X: 8 Y: 0
+Neighbour 2X: 8 Y: 1
+Neighbour 3X: 8 Y: 2
+Neighbour 4X: 7 Y: 2
+Neighbour 5X: 6 Y: 2
+Neighbour 6X: 6 Y: 1
+Neighbour 7X: 6 Y: 0
+81
+Neighbour 0X: 8 Y: 0
+Neighbour 1X: 9 Y: 0
+Neighbour 2X: 9 Y: 1
+Neighbour 3X: 9 Y: 2
+Neighbour 4X: 8 Y: 2
+Neighbour 5X: 7 Y: 2
+Neighbour 6X: 7 Y: 1
+Neighbour 7X: 7 Y: 0
+91
+Neighbour 0X: 9 Y: 0
+Neighbour 4X: 9 Y: 2
+Neighbour 5X: 8 Y: 2
+Neighbour 6X: 8 Y: 1
+Neighbour 7X: 8 Y: 0
+02
+Neighbour 0X: 0 Y: 1
+Neighbour 1X: 1 Y: 1
+Neighbour 2X: 1 Y: 2
+Neighbour 3X: 1 Y: 3
+Neighbour 4X: 0 Y: 3
+12
+Neighbour 0X: 1 Y: 1
+Neighbour 1X: 2 Y: 1
+Neighbour 2X: 2 Y: 2
+Neighbour 3X: 2 Y: 3
+Neighbour 4X: 1 Y: 3
+Neighbour 5X: 0 Y: 3
+Neighbour 6X: 0 Y: 2
+Neighbour 7X: 0 Y: 1
+22
+Neighbour 0X: 2 Y: 1
+Neighbour 1X: 3 Y: 1
+Neighbour 2X: 3 Y: 2
+Neighbour 3X: 3 Y: 3
+Neighbour 4X: 2 Y: 3
+Neighbour 5X: 1 Y: 3
+Neighbour 6X: 1 Y: 2
+Neighbour 7X: 1 Y: 1
+32
+Neighbour 0X: 3 Y: 1
+Neighbour 1X: 4 Y: 1
+Neighbour 2X: 4 Y: 2
+Neighbour 3X: 4 Y: 3
+Neighbour 4X: 3 Y: 3
+Neighbour 5X: 2 Y: 3
+Neighbour 6X: 2 Y: 2
+Neighbour 7X: 2 Y: 1
+42
+Neighbour 0X: 4 Y: 1
+Neighbour 1X: 5 Y: 1
+Neighbour 2X: 5 Y: 2
+Neighbour 3X: 5 Y: 3
+Neighbour 4X: 4 Y: 3
+Neighbour 5X: 3 Y: 3
+Neighbour 6X: 3 Y: 2
+Neighbour 7X: 3 Y: 1
+52
+Neighbour 0X: 5 Y: 1
+Neighbour 1X: 6 Y: 1
+Neighbour 2X: 6 Y: 2
+Neighbour 3X: 6 Y: 3
+Neighbour 4X: 5 Y: 3
+Neighbour 5X: 4 Y: 3
+Neighbour 6X: 4 Y: 2
+Neighbour 7X: 4 Y: 1
+62
+Neighbour 0X: 6 Y: 1
+Neighbour 1X: 7 Y: 1
+Neighbour 2X: 7 Y: 2
+Neighbour 3X: 7 Y: 3
+Neighbour 4X: 6 Y: 3
+Neighbour 5X: 5 Y: 3
+Neighbour 6X: 5 Y: 2
+Neighbour 7X: 5 Y: 1
+72
+Neighbour 0X: 7 Y: 1
+Neighbour 1X: 8 Y: 1
+Neighbour 2X: 8 Y: 2
+Neighbour 3X: 8 Y: 3
+Neighbour 4X: 7 Y: 3
+Neighbour 5X: 6 Y: 3
+Neighbour 6X: 6 Y: 2
+Neighbour 7X: 6 Y: 1
+82
+Neighbour 0X: 8 Y: 1
+Neighbour 1X: 9 Y: 1
+Neighbour 2X: 9 Y: 2
+Neighbour 3X: 9 Y: 3
+Neighbour 4X: 8 Y: 3
+Neighbour 5X: 7 Y: 3
+Neighbour 6X: 7 Y: 2
+Neighbour 7X: 7 Y: 1
+92
+Neighbour 0X: 9 Y: 1
+Neighbour 4X: 9 Y: 3
+Neighbour 5X: 8 Y: 3
+Neighbour 6X: 8 Y: 2
+Neighbour 7X: 8 Y: 1
+03
+Neighbour 0X: 0 Y: 2
+Neighbour 1X: 1 Y: 2
+Neighbour 2X: 1 Y: 3
+Neighbour 3X: 1 Y: 4
+Neighbour 4X: 0 Y: 4
+13
+Neighbour 0X: 1 Y: 2
+Neighbour 1X: 2 Y: 2
+Neighbour 2X: 2 Y: 3
+Neighbour 3X: 2 Y: 4
+Neighbour 4X: 1 Y: 4
+Neighbour 5X: 0 Y: 4
+Neighbour 6X: 0 Y: 3
+Neighbour 7X: 0 Y: 2
+23
+Neighbour 0X: 2 Y: 2
+Neighbour 1X: 3 Y: 2
+Neighbour 2X: 3 Y: 3
+Neighbour 3X: 3 Y: 4
+Neighbour 4X: 2 Y: 4
+Neighbour 5X: 1 Y: 4
+Neighbour 6X: 1 Y: 3
+Neighbour 7X: 1 Y: 2
+33
+Neighbour 0X: 3 Y: 2
+Neighbour 1X: 4 Y: 2
+Neighbour 2X: 4 Y: 3
+Neighbour 3X: 4 Y: 4
+Neighbour 4X: 3 Y: 4
+Neighbour 5X: 2 Y: 4
+Neighbour 6X: 2 Y: 3
+Neighbour 7X: 2 Y: 2
+43
+Neighbour 0X: 4 Y: 2
+Neighbour 1X: 5 Y: 2
+Neighbour 2X: 5 Y: 3
+Neighbour 3X: 5 Y: 4
+Neighbour 4X: 4 Y: 4
+Neighbour 5X: 3 Y: 4
+Neighbour 6X: 3 Y: 3
+Neighbour 7X: 3 Y: 2
+53
+Neighbour 0X: 5 Y: 2
+Neighbour 1X: 6 Y: 2
+Neighbour 2X: 6 Y: 3
+Neighbour 3X: 6 Y: 4
+Neighbour 4X: 5 Y: 4
+Neighbour 5X: 4 Y: 4
+Neighbour 6X: 4 Y: 3
+Neighbour 7X: 4 Y: 2
+63
+Neighbour 0X: 6 Y: 2
+Neighbour 1X: 7 Y: 2
+Neighbour 2X: 7 Y: 3
+Neighbour 3X: 7 Y: 4
+Neighbour 4X: 6 Y: 4
+Neighbour 5X: 5 Y: 4
+Neighbour 6X: 5 Y: 3
+Neighbour 7X: 5 Y: 2
+73
+Neighbour 0X: 7 Y: 2
+Neighbour 1X: 8 Y: 2
+Neighbour 2X: 8 Y: 3
+Neighbour 3X: 8 Y: 4
+Neighbour 4X: 7 Y: 4
+Neighbour 5X: 6 Y: 4
+Neighbour 6X: 6 Y: 3
+Neighbour 7X: 6 Y: 2
+83
+Neighbour 0X: 8 Y: 2
+Neighbour 1X: 9 Y: 2
+Neighbour 2X: 9 Y: 3
+Neighbour 3X: 9 Y: 4
+Neighbour 4X: 8 Y: 4
+Neighbour 5X: 7 Y: 4
+Neighbour 6X: 7 Y: 3
+Neighbour 7X: 7 Y: 2
+93
+Neighbour 0X: 9 Y: 2
+Neighbour 4X: 9 Y: 4
+Neighbour 5X: 8 Y: 4
+Neighbour 6X: 8 Y: 3
+Neighbour 7X: 8 Y: 2
+04
+Neighbour 0X: 0 Y: 3
+Neighbour 1X: 1 Y: 3
+Neighbour 2X: 1 Y: 4
+Neighbour 3X: 1 Y: 5
+Neighbour 4X: 0 Y: 5
+14
+Neighbour 0X: 1 Y: 3
+Neighbour 1X: 2 Y: 3
+Neighbour 2X: 2 Y: 4
+Neighbour 3X: 2 Y: 5
+Neighbour 4X: 1 Y: 5
+Neighbour 5X: 0 Y: 5
+Neighbour 6X: 0 Y: 4
+Neighbour 7X: 0 Y: 3
+24
+Neighbour 0X: 2 Y: 3
+Neighbour 1X: 3 Y: 3
+Neighbour 2X: 3 Y: 4
+Neighbour 3X: 3 Y: 5
+Neighbour 4X: 2 Y: 5
+Neighbour 5X: 1 Y: 5
+Neighbour 6X: 1 Y: 4
+Neighbour 7X: 1 Y: 3
+34
+Neighbour 0X: 3 Y: 3
+Neighbour 1X: 4 Y: 3
+Neighbour 2X: 4 Y: 4
+Neighbour 3X: 4 Y: 5
+Neighbour 4X: 3 Y: 5
+Neighbour 5X: 2 Y: 5
+Neighbour 6X: 2 Y: 4
+Neighbour 7X: 2 Y: 3
+44
+Neighbour 0X: 4 Y: 3
+Neighbour 1X: 5 Y: 3
+Neighbour 2X: 5 Y: 4
+Neighbour 3X: 5 Y: 5
+Neighbour 4X: 4 Y: 5
+Neighbour 5X: 3 Y: 5
+Neighbour 6X: 3 Y: 4
+Neighbour 7X: 3 Y: 3
+54
+Neighbour 0X: 5 Y: 3
+Neighbour 1X: 6 Y: 3
+Neighbour 2X: 6 Y: 4
+Neighbour 3X: 6 Y: 5
+Neighbour 4X: 5 Y: 5
+Neighbour 5X: 4 Y: 5
+Neighbour 6X: 4 Y: 4
+Neighbour 7X: 4 Y: 3
+64
+Neighbour 0X: 6 Y: 3
+Neighbour 1X: 7 Y: 3
+Neighbour 2X: 7 Y: 4
+Neighbour 3X: 7 Y: 5
+Neighbour 4X: 6 Y: 5
+Neighbour 5X: 5 Y: 5
+Neighbour 6X: 5 Y: 4
+Neighbour 7X: 5 Y: 3
+74
+Neighbour 0X: 7 Y: 3
+Neighbour 1X: 8 Y: 3
+Neighbour 2X: 8 Y: 4
+Neighbour 3X: 8 Y: 5
+Neighbour 4X: 7 Y: 5
+Neighbour 5X: 6 Y: 5
+Neighbour 6X: 6 Y: 4
+Neighbour 7X: 6 Y: 3
+84
+Neighbour 0X: 8 Y: 3
+Neighbour 1X: 9 Y: 3
+Neighbour 2X: 9 Y: 4
+Neighbour 3X: 9 Y: 5
+Neighbour 4X: 8 Y: 5
+Neighbour 5X: 7 Y: 5
+Neighbour 6X: 7 Y: 4
+Neighbour 7X: 7 Y: 3
+94
+Neighbour 0X: 9 Y: 3
+Neighbour 4X: 9 Y: 5
+Neighbour 5X: 8 Y: 5
+Neighbour 6X: 8 Y: 4
+Neighbour 7X: 8 Y: 3
+05
+Neighbour 0X: 0 Y: 4
+Neighbour 1X: 1 Y: 4
+Neighbour 2X: 1 Y: 5
+Neighbour 3X: 1 Y: 6
+Neighbour 4X: 0 Y: 6
+15
+Neighbour 0X: 1 Y: 4
+Neighbour 1X: 2 Y: 4
+Neighbour 2X: 2 Y: 5
+Neighbour 3X: 2 Y: 6
+Neighbour 4X: 1 Y: 6
+Neighbour 5X: 0 Y: 6
+Neighbour 6X: 0 Y: 5
+Neighbour 7X: 0 Y: 4
+25
+Neighbour 0X: 2 Y: 4
+Neighbour 1X: 3 Y: 4
+Neighbour 2X: 3 Y: 5
+Neighbour 3X: 3 Y: 6
+Neighbour 4X: 2 Y: 6
+Neighbour 5X: 1 Y: 6
+Neighbour 6X: 1 Y: 5
+Neighbour 7X: 1 Y: 4
+35
+Neighbour 0X: 3 Y: 4
+Neighbour 1X: 4 Y: 4
+Neighbour 2X: 4 Y: 5
+Neighbour 3X: 4 Y: 6
+Neighbour 4X: 3 Y: 6
+Neighbour 5X: 2 Y: 6
+Neighbour 6X: 2 Y: 5
+Neighbour 7X: 2 Y: 4
+45
+Neighbour 0X: 4 Y: 4
+Neighbour 1X: 5 Y: 4
+Neighbour 2X: 5 Y: 5
+Neighbour 3X: 5 Y: 6
+Neighbour 4X: 4 Y: 6
+Neighbour 5X: 3 Y: 6
+Neighbour 6X: 3 Y: 5
+Neighbour 7X: 3 Y: 4
+55
+Neighbour 0X: 5 Y: 4
+Neighbour 1X: 6 Y: 4
+Neighbour 2X: 6 Y: 5
+Neighbour 3X: 6 Y: 6
+Neighbour 4X: 5 Y: 6
+Neighbour 5X: 4 Y: 6
+Neighbour 6X: 4 Y: 5
+Neighbour 7X: 4 Y: 4
+65
+Neighbour 0X: 6 Y: 4
+Neighbour 1X: 7 Y: 4
+Neighbour 2X: 7 Y: 5
+Neighbour 3X: 7 Y: 6
+Neighbour 4X: 6 Y: 6
+Neighbour 5X: 5 Y: 6
+Neighbour 6X: 5 Y: 5
+Neighbour 7X: 5 Y: 4
+75
+Neighbour 0X: 7 Y: 4
+Neighbour 1X: 8 Y: 4
+Neighbour 2X: 8 Y: 5
+Neighbour 3X: 8 Y: 6
+Neighbour 4X: 7 Y: 6
+Neighbour 5X: 6 Y: 6
+Neighbour 6X: 6 Y: 5
+Neighbour 7X: 6 Y: 4
+85
+Neighbour 0X: 8 Y: 4
+Neighbour 1X: 9 Y: 4
+Neighbour 2X: 9 Y: 5
+Neighbour 3X: 9 Y: 6
+Neighbour 4X: 8 Y: 6
+Neighbour 5X: 7 Y: 6
+Neighbour 6X: 7 Y: 5
+Neighbour 7X: 7 Y: 4
+95
+Neighbour 0X: 9 Y: 4
+Neighbour 4X: 9 Y: 6
+Neighbour 5X: 8 Y: 6
+Neighbour 6X: 8 Y: 5
+Neighbour 7X: 8 Y: 4
+06
+Neighbour 0X: 0 Y: 5
+Neighbour 1X: 1 Y: 5
+Neighbour 2X: 1 Y: 6
+Neighbour 3X: 1 Y: 7
+Neighbour 4X: 0 Y: 7
+16
+Neighbour 0X: 1 Y: 5
+Neighbour 1X: 2 Y: 5
+Neighbour 2X: 2 Y: 6
+Neighbour 3X: 2 Y: 7
+Neighbour 4X: 1 Y: 7
+Neighbour 5X: 0 Y: 7
+Neighbour 6X: 0 Y: 6
+Neighbour 7X: 0 Y: 5
+26
+Neighbour 0X: 2 Y: 5
+Neighbour 1X: 3 Y: 5
+Neighbour 2X: 3 Y: 6
+Neighbour 3X: 3 Y: 7
+Neighbour 4X: 2 Y: 7
+Neighbour 5X: 1 Y: 7
+Neighbour 6X: 1 Y: 6
+Neighbour 7X: 1 Y: 5
+36
+Neighbour 0X: 3 Y: 5
+Neighbour 1X: 4 Y: 5
+Neighbour 2X: 4 Y: 6
+Neighbour 3X: 4 Y: 7
+Neighbour 4X: 3 Y: 7
+Neighbour 5X: 2 Y: 7
+Neighbour 6X: 2 Y: 6
+Neighbour 7X: 2 Y: 5
+46
+Neighbour 0X: 4 Y: 5
+Neighbour 1X: 5 Y: 5
+Neighbour 2X: 5 Y: 6
+Neighbour 3X: 5 Y: 7
+Neighbour 4X: 4 Y: 7
+Neighbour 5X: 3 Y: 7
+Neighbour 6X: 3 Y: 6
+Neighbour 7X: 3 Y: 5
+56
+Neighbour 0X: 5 Y: 5
+Neighbour 1X: 6 Y: 5
+Neighbour 2X: 6 Y: 6
+Neighbour 3X: 6 Y: 7
+Neighbour 4X: 5 Y: 7
+Neighbour 5X: 4 Y: 7
+Neighbour 6X: 4 Y: 6
+Neighbour 7X: 4 Y: 5
+66
+Neighbour 0X: 6 Y: 5
+Neighbour 1X: 7 Y: 5
+Neighbour 2X: 7 Y: 6
+Neighbour 3X: 7 Y: 7
+Neighbour 4X: 6 Y: 7
+Neighbour 5X: 5 Y: 7
+Neighbour 6X: 5 Y: 6
+Neighbour 7X: 5 Y: 5
+76
+Neighbour 0X: 7 Y: 5
+Neighbour 1X: 8 Y: 5
+Neighbour 2X: 8 Y: 6
+Neighbour 3X: 8 Y: 7
+Neighbour 4X: 7 Y: 7
+Neighbour 5X: 6 Y: 7
+Neighbour 6X: 6 Y: 6
+Neighbour 7X: 6 Y: 5
+86
+Neighbour 0X: 8 Y: 5
+Neighbour 1X: 9 Y: 5
+Neighbour 2X: 9 Y: 6
+Neighbour 3X: 9 Y: 7
+Neighbour 4X: 8 Y: 7
+Neighbour 5X: 7 Y: 7
+Neighbour 6X: 7 Y: 6
+Neighbour 7X: 7 Y: 5
+96
+Neighbour 0X: 9 Y: 5
+Neighbour 4X: 9 Y: 7
+Neighbour 5X: 8 Y: 7
+Neighbour 6X: 8 Y: 6
+Neighbour 7X: 8 Y: 5
+07
+Neighbour 0X: 0 Y: 6
+Neighbour 1X: 1 Y: 6
+Neighbour 2X: 1 Y: 7
+Neighbour 3X: 1 Y: 8
+Neighbour 4X: 0 Y: 8
+17
+Neighbour 0X: 1 Y: 6
+Neighbour 1X: 2 Y: 6
+Neighbour 2X: 2 Y: 7
+Neighbour 3X: 2 Y: 8
+Neighbour 4X: 1 Y: 8
+Neighbour 5X: 0 Y: 8
+Neighbour 6X: 0 Y: 7
+Neighbour 7X: 0 Y: 6
+27
+Neighbour 0X: 2 Y: 6
+Neighbour 1X: 3 Y: 6
+Neighbour 2X: 3 Y: 7
+Neighbour 3X: 3 Y: 8
+Neighbour 4X: 2 Y: 8
+Neighbour 5X: 1 Y: 8
+Neighbour 6X: 1 Y: 7
+Neighbour 7X: 1 Y: 6
+37
+Neighbour 0X: 3 Y: 6
+Neighbour 1X: 4 Y: 6
+Neighbour 2X: 4 Y: 7
+Neighbour 3X: 4 Y: 8
+Neighbour 4X: 3 Y: 8
+Neighbour 5X: 2 Y: 8
+Neighbour 6X: 2 Y: 7
+Neighbour 7X: 2 Y: 6
+47
+Neighbour 0X: 4 Y: 6
+Neighbour 1X: 5 Y: 6
+Neighbour 2X: 5 Y: 7
+Neighbour 3X: 5 Y: 8
+Neighbour 4X: 4 Y: 8
+Neighbour 5X: 3 Y: 8
+Neighbour 6X: 3 Y: 7
+Neighbour 7X: 3 Y: 6
+57
+Neighbour 0X: 5 Y: 6
+Neighbour 1X: 6 Y: 6
+Neighbour 2X: 6 Y: 7
+Neighbour 3X: 6 Y: 8
+Neighbour 4X: 5 Y: 8
+Neighbour 5X: 4 Y: 8
+Neighbour 6X: 4 Y: 7
+Neighbour 7X: 4 Y: 6
+67
+Neighbour 0X: 6 Y: 6
+Neighbour 1X: 7 Y: 6
+Neighbour 2X: 7 Y: 7
+Neighbour 3X: 7 Y: 8
+Neighbour 4X: 6 Y: 8
+Neighbour 5X: 5 Y: 8
+Neighbour 6X: 5 Y: 7
+Neighbour 7X: 5 Y: 6
+77
+Neighbour 0X: 7 Y: 6
+Neighbour 1X: 8 Y: 6
+Neighbour 2X: 8 Y: 7
+Neighbour 3X: 8 Y: 8
+Neighbour 4X: 7 Y: 8
+Neighbour 5X: 6 Y: 8
+Neighbour 6X: 6 Y: 7
+Neighbour 7X: 6 Y: 6
+87
+Neighbour 0X: 8 Y: 6
+Neighbour 1X: 9 Y: 6
+Neighbour 2X: 9 Y: 7
+Neighbour 3X: 9 Y: 8
+Neighbour 4X: 8 Y: 8
+Neighbour 5X: 7 Y: 8
+Neighbour 6X: 7 Y: 7
+Neighbour 7X: 7 Y: 6
+97
+Neighbour 0X: 9 Y: 6
+Neighbour 4X: 9 Y: 8
+Neighbour 5X: 8 Y: 8
+Neighbour 6X: 8 Y: 7
+Neighbour 7X: 8 Y: 6
+08
+Neighbour 0X: 0 Y: 7
+Neighbour 1X: 1 Y: 7
+Neighbour 2X: 1 Y: 8
+Neighbour 3X: 1 Y: 9
+Neighbour 4X: 0 Y: 9
+18
+Neighbour 0X: 1 Y: 7
+Neighbour 1X: 2 Y: 7
+Neighbour 2X: 2 Y: 8
+Neighbour 3X: 2 Y: 9
+Neighbour 4X: 1 Y: 9
+Neighbour 5X: 0 Y: 9
+Neighbour 6X: 0 Y: 8
+Neighbour 7X: 0 Y: 7
+28
+Neighbour 0X: 2 Y: 7
+Neighbour 1X: 3 Y: 7
+Neighbour 2X: 3 Y: 8
+Neighbour 3X: 3 Y: 9
+Neighbour 4X: 2 Y: 9
+Neighbour 5X: 1 Y: 9
+Neighbour 6X: 1 Y: 8
+Neighbour 7X: 1 Y: 7
+38
+Neighbour 0X: 3 Y: 7
+Neighbour 1X: 4 Y: 7
+Neighbour 2X: 4 Y: 8
+Neighbour 3X: 4 Y: 9
+Neighbour 4X: 3 Y: 9
+Neighbour 5X: 2 Y: 9
+Neighbour 6X: 2 Y: 8
+Neighbour 7X: 2 Y: 7
+48
+Neighbour 0X: 4 Y: 7
+Neighbour 1X: 5 Y: 7
+Neighbour 2X: 5 Y: 8
+Neighbour 3X: 5 Y: 9
+Neighbour 4X: 4 Y: 9
+Neighbour 5X: 3 Y: 9
+Neighbour 6X: 3 Y: 8
+Neighbour 7X: 3 Y: 7
+58
+Neighbour 0X: 5 Y: 7
+Neighbour 1X: 6 Y: 7
+Neighbour 2X: 6 Y: 8
+Neighbour 3X: 6 Y: 9
+Neighbour 4X: 5 Y: 9
+Neighbour 5X: 4 Y: 9
+Neighbour 6X: 4 Y: 8
+Neighbour 7X: 4 Y: 7
+68
+Neighbour 0X: 6 Y: 7
+Neighbour 1X: 7 Y: 7
+Neighbour 2X: 7 Y: 8
+Neighbour 3X: 7 Y: 9
+Neighbour 4X: 6 Y: 9
+Neighbour 5X: 5 Y: 9
+Neighbour 6X: 5 Y: 8
+Neighbour 7X: 5 Y: 7
+78
+Neighbour 0X: 7 Y: 7
+Neighbour 1X: 8 Y: 7
+Neighbour 2X: 8 Y: 8
+Neighbour 3X: 8 Y: 9
+Neighbour 4X: 7 Y: 9
+Neighbour 5X: 6 Y: 9
+Neighbour 6X: 6 Y: 8
+Neighbour 7X: 6 Y: 7
+88
+Neighbour 0X: 8 Y: 7
+Neighbour 1X: 9 Y: 7
+Neighbour 2X: 9 Y: 8
+Neighbour 3X: 9 Y: 9
+Neighbour 4X: 8 Y: 9
+Neighbour 5X: 7 Y: 9
+Neighbour 6X: 7 Y: 8
+Neighbour 7X: 7 Y: 7
+98
+Neighbour 0X: 9 Y: 7
+Neighbour 4X: 9 Y: 9
+Neighbour 5X: 8 Y: 9
+Neighbour 6X: 8 Y: 8
+Neighbour 7X: 8 Y: 7
+09
+Neighbour 0X: 0 Y: 8
+Neighbour 1X: 1 Y: 8
+Neighbour 2X: 1 Y: 9
+19
+Neighbour 0X: 1 Y: 8
+Neighbour 1X: 2 Y: 8
+Neighbour 2X: 2 Y: 9
+Neighbour 6X: 0 Y: 9
+Neighbour 7X: 0 Y: 8
+29
+Neighbour 0X: 2 Y: 8
+Neighbour 1X: 3 Y: 8
+Neighbour 2X: 3 Y: 9
+Neighbour 6X: 1 Y: 9
+Neighbour 7X: 1 Y: 8
+39
+Neighbour 0X: 3 Y: 8
+Neighbour 1X: 4 Y: 8
+Neighbour 2X: 4 Y: 9
+Neighbour 6X: 2 Y: 9
+Neighbour 7X: 2 Y: 8
+49
+Neighbour 0X: 4 Y: 8
+Neighbour 1X: 5 Y: 8
+Neighbour 2X: 5 Y: 9
+Neighbour 6X: 3 Y: 9
+Neighbour 7X: 3 Y: 8
+59
+Neighbour 0X: 5 Y: 8
+Neighbour 1X: 6 Y: 8
+Neighbour 2X: 6 Y: 9
+Neighbour 6X: 4 Y: 9
+Neighbour 7X: 4 Y: 8
+69
+Neighbour 0X: 6 Y: 8
+Neighbour 1X: 7 Y: 8
+Neighbour 2X: 7 Y: 9
+Neighbour 6X: 5 Y: 9
+Neighbour 7X: 5 Y: 8
+79
+Neighbour 0X: 7 Y: 8
+Neighbour 1X: 8 Y: 8
+Neighbour 2X: 8 Y: 9
+Neighbour 6X: 6 Y: 9
+Neighbour 7X: 6 Y: 8
+89
+Neighbour 0X: 8 Y: 8
+Neighbour 1X: 9 Y: 8
+Neighbour 2X: 9 Y: 9
+Neighbour 6X: 7 Y: 9
+Neighbour 7X: 7 Y: 8
+99
+Neighbour 0X: 9 Y: 8
+Neighbour 6X: 8 Y: 9
+Neighbour 7X: 8 Y: 8

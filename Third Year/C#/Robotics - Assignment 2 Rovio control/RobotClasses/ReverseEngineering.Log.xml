@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2014-04-01T17:38:51" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '9703ead4-26a6-4803-945f-6f6ce078838a' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'bfc623f9-9f55-4047-90c5-60bac7d9c7d6' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::AForge' -  (Package)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::AForge::Imaging' -  (Package)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::AForge::Imaging::Filters' -  (Package)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::AForge::Imaging::Filters::HSLFiltering' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio' -  (Package)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::FilterColour' -  (Enumeration)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::FilterColour' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Medium" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor' -  (Class)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::colourImagesBackBuffer' -  (Property)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::colourImagesFrontBuffer' -  (Property)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::filters' -  (Property)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::GetColourSlicedImage' -  (Operation)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::GetColourSlicedImage::colour' -  (Parameter)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::getObjectRectangle' -  (Operation)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::getObjectRectangle::colour' -  (Parameter)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::ImageProcessor' -  (Operation)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::objectBackBuffer' -  (Property)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::objectFrontBuffer' -  (Property)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::ProcessImages' -  (Operation)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::ProcessImages::colours' -  (Parameter)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::ProcessImages::image' -  (Parameter)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::SetUpColours' -  (Operation)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::Rovio::ImageProcessor::swappingBuffers' -  (Property)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::System' -  (Package)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::System::Collections' -  (Package)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::System::Collections::Generic::Dictionary' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::System::Collections::Generic::Dictionary&lt;FilterColour‎, HSLFiltering‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::System::Drawing' -  (Package)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::System::Drawing::Bitmap' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'RobotClasses::System::Drawing::Rectangle' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: RobotClasses::System::Drawing::Bitmap to RobotClasses::System::Drawing::Image (Generalization)" />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="High" Text="(1) type(s) fully reverse engineered." />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="High" Text="(7) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2014-04-01T17:38:52" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>
