@@ -1,0 +1,23 @@
+J:\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\bin\Debug\Assignment 2 to-do list.exe
+J:\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\bin\Debug\Assignment 2 to-do list.pdb
+J:\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment_2_to_do_list.taskDetails.resources
+J:\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment_2_to_do_list.TaskView.resources
+J:\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment_2_to_do_list.TaskEntry.resources
+J:\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment_2_to_do_list.Properties.Resources.resources
+J:\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment 2 to-do list.exe
+J:\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment 2 to-do list.pdb
+F:\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment 2 to-do list.exe
+F:\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment 2 to-do list.pdb
+C:\Users\Sam\Documents\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment 2 to-do list.exe
+C:\Users\Sam\Documents\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment 2 to-do list.pdb
+C:\Users\Sam\Documents\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\bin\Debug\Assignment 2 to-do list.exe
+C:\Users\Sam\Documents\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\bin\Debug\Assignment 2 to-do list.pdb
+C:\Users\Sam\Documents\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\PEA10184700_Assignment _2.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment_2_to_do_list.taskDetails.resources
+C:\Users\Sam\Documents\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment_2_to_do_list.TaskView.resources
+C:\Users\Sam\Documents\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment_2_to_do_list.TaskEntry.resources
+C:\Users\Sam\Documents\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\Assignment_2_to_do_list.Properties.Resources.resources
+C:\Users\Sam\Documents\Uni\Year one\CMP1001 - Software Dev\Assignment 2 to-do list\Assignment 2 to-do list\obj\x86\Debug\PEA10184700_Assignment _2.csproj.GenerateResource.Cache

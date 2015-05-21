@@ -1,0 +1,25 @@
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop 2 - Forms.exe
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop 2 - Forms.pdb
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\Workshop 2 - Forms.exe
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\Workshop 2 - Forms.pdb
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\Workshop 2 - Forms.exe.CodeAnalysisLog.xml
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\Workshop 2 - Forms.exe.lastcodeanalysissucceeded
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\AForge.dll
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\AForge.Imaging.dll
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\AForge.Imaging.xml
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop 2 - Forms.csprojResolveAssemblyReference.cache
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop_2___Forms.ImageViewer.resources
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop_2___Forms.MainForm.resources
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop_2___Forms.Properties.Resources.resources
+G:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop 2 - Forms.csproj.GenerateResource.Cache
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\Workshop 2 - Forms.exe
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\Workshop 2 - Forms.pdb
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\AForge.dll
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\AForge.Imaging.dll
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\bin\Debug\AForge.Imaging.xml
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop_2___Forms.ImageViewer.resources
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop_2___Forms.MainForm.resources
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop_2___Forms.Properties.Resources.resources
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop 2 - Forms.csproj.GenerateResource.Cache
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop 2 - Forms.exe
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Workshop 2 - Forms\obj\Debug\Workshop 2 - Forms.pdb

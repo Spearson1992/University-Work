@@ -1,0 +1,10 @@
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Assignment 2\obj\Release\Workshop 2 - Forms.exe
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Assignment 2\obj\Release\Workshop 2 - Forms.pdb
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Assignment 2\bin\Release\Workshop 2 - Forms.exe
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Assignment 2\bin\Release\Workshop 2 - Forms.pdb
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Assignment 2\bin\Release\AForge.dll
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Assignment 2\bin\Release\AForge.Imaging.dll
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Assignment 2\bin\Release\AForge.Imaging.xml
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Assignment 2\obj\Release\Workshop_2___Forms.ImageViewer.resources
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Assignment 2\obj\Release\Workshop_2___Forms.Properties.Resources.resources
+F:\Uni\Year three\Vision and Robotics\Robotics\CMP3641M Robotics workshop 2\Workshop 2\Assignment 2\obj\Release\Assignment 2.csproj.GenerateResource.Cache

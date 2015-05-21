@@ -1,0 +1,1077 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="0aea7cfa-1fb8-453b-bc63-040d952003cd"
+  name="Rovio"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="67e43283-4406-4ecd-ba61-a4fe1b36a57a"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DRovio"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="d687219e-f688-414a-9b76-7b1b529286e9"
+        name="ImageProcessor"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="13a29688-0110-42be-a66d-a8ce154a774f"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="8e70e11e-3743-4dd1-a588-0f0a5e60b846"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="624078ae-cc1b-4107-ae11-81fb56d034fc">
+                <propertyInstance
+                  Id="2572568d-7a52-496d-a065-babdd0d5e17e"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="6a482fd9-0dee-494d-a236-badab14460fc">
+                <propertyInstance
+                  Id="70b7018c-69a7-4e66-be39-ba53822f71de"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="2b9c19dd-ac81-4dea-b9b4-d672690cda6a">
+                <propertyInstance
+                  Id="39053994-5c93-4db0-bb7a-4211f1dea843"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="18483307-bc51-4fa0-9d7a-a6bbd4785f70">
+                <propertyInstance
+                  Id="2a7fcc1c-13b4-43f2-9329-217b645c894e"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="f4ddfa16-5816-410f-9ed9-f0cf9d3a5471">
+                <propertyInstance
+                  Id="7f0fe080-717e-4f3b-a2f7-e0f379b6e258"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+        <ownedAttributesInternal>
+          <property
+            Id="c2851475-9601-41d9-a36b-33ece71a9c59"
+            name="colourImagesBackBuffer"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isOrdered="true"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <referencesInternal>
+              <reference
+                Id="7c9dd467-a321-4dcf-bb2b-bdb2c0d9a684"
+                handle="viewcode://./CodeSchema_Field?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3DcolourImagesBackBuffer"
+                tag="ViewCode" />
+            </referencesInternal>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="3b3c6a90-29e7-4f75-b8a1-650534e1f286"
+                name="field"
+                profile="CSharpProfile">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="6cb9029f-3ab9-43d1-915a-7c51c1d74b69">
+                    <propertyInstance
+                      Id="9ed18ee3-0712-49af-966d-af7d92b3ded0"
+                      name="ClrAttributes" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="5cc921a1-cc0f-4d1b-8d84-d664c7e90492">
+                    <propertyInstance
+                      Id="7d8a6939-d489-4640-b84a-eff76c914c90"
+                      name="IsConst"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="a5c8bd80-4452-411c-b9ae-004eaa728b36">
+                    <propertyInstance
+                      Id="721f7d86-e7ab-4636-9ddc-6ec0ad6da9ee"
+                      name="IsNullable"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="3bdcd6c7-d668-4bd5-b5e5-3e38a37de9f9">
+                    <propertyInstance
+                      Id="0a56098b-9b29-4998-a807-ad0c44aeddc6"
+                      name="IsVolatile"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="35e90c32-cf22-4616-a611-f48fc657f251">
+                    <propertyInstance
+                      Id="04c1c747-9570-4a6d-bea5-80c8fc7399e9"
+                      name="PackageVisibility"
+                      value="internal" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <lowerValueInternal>
+              <literalString
+                Id="9faebc58-e10a-49e8-90e8-3e8a60cc189c"
+                name="Lower"
+                value="*" />
+            </lowerValueInternal>
+            <upperValueInternal>
+              <literalString
+                Id="fc4e2941-ccb5-4bf2-8fa6-208acf6bb556"
+                name="Upper"
+                value="*" />
+            </upperValueInternal>
+            <type_NamedElement>
+              <classMoniker
+                Id="3b56d7e8-2118-4305-a4a5-8392e272d745"
+                LastKnownName="Bitmap"
+                LastKnownLocation="Package2_1737.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="8ec99d20-edd9-49c3-8a17-13cbde2182be"
+            name="colourImagesFrontBuffer"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isOrdered="true"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <referencesInternal>
+              <reference
+                Id="16f9dbfa-4f11-4304-9969-98abb06f816c"
+                handle="viewcode://./CodeSchema_Field?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3DcolourImagesFrontBuffer"
+                tag="ViewCode" />
+            </referencesInternal>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="74f34f03-7e13-4c54-b7fd-64bd1bccfc87"
+                name="field"
+                profile="CSharpProfile">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="aae5a194-2b09-4ecc-b736-9f1f28a9b18d">
+                    <propertyInstance
+                      Id="49804976-8220-4e1c-94bc-26f67596e495"
+                      name="ClrAttributes" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="d0f8b27c-292f-4a1e-90a2-da222bb11586">
+                    <propertyInstance
+                      Id="aabb68e8-0e83-464c-9e30-3ef63c74fc12"
+                      name="IsConst"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="612af479-495c-4353-9b5c-310782a8e1ce">
+                    <propertyInstance
+                      Id="b842aa54-3357-4146-b049-da37ed194559"
+                      name="IsNullable"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="805bbdec-3f28-4601-be28-bd699b9c8202">
+                    <propertyInstance
+                      Id="5fe8500d-b0d8-4b99-99e7-024fafa8d009"
+                      name="IsVolatile"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="e9910284-7af5-4fd9-8837-7910d5f50a7e">
+                    <propertyInstance
+                      Id="3afb21ce-4dbd-4abe-9c78-672d7658bae9"
+                      name="PackageVisibility"
+                      value="internal" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <lowerValueInternal>
+              <literalString
+                Id="5a55c11c-7cef-409c-801d-e8eeda50512d"
+                name="Lower"
+                value="*" />
+            </lowerValueInternal>
+            <upperValueInternal>
+              <literalString
+                Id="ca950c43-5ead-4691-bd68-6580ac7ee905"
+                name="Upper"
+                value="*" />
+            </upperValueInternal>
+            <type_NamedElement>
+              <classMoniker
+                Id="3b56d7e8-2118-4305-a4a5-8392e272d745"
+                LastKnownName="Bitmap"
+                LastKnownLocation="Package2_1737.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="c12dc16a-7de4-4870-8fd8-c6044a42bb30"
+            name="filters"
+            visibility="Protected"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <referencesInternal>
+              <reference
+                Id="bbdc1d9c-1b33-4f20-9e43-922d1529e867"
+                handle="viewcode://./CodeSchema_Field?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3Dfilters"
+                tag="ViewCode" />
+            </referencesInternal>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="88d584b1-8ce8-4328-8bac-d6cf479d39d6"
+                name="field"
+                profile="CSharpProfile">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="283797d0-c818-4243-bdfc-46f5e991847e">
+                    <propertyInstance
+                      Id="8e0ccaed-ab90-4cae-ab27-ce69735cab1e"
+                      name="ClrAttributes" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="0afd5a7c-2f3f-4b00-b70c-49ef33d37f66">
+                    <propertyInstance
+                      Id="a92867da-7a9d-4bce-b56c-eed6b12700f7"
+                      name="IsConst"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="1175728d-18aa-4255-89dd-583330cfbd09">
+                    <propertyInstance
+                      Id="e27f9387-7489-433d-af9d-dc692188fca0"
+                      name="IsNullable"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="acb887ea-d903-4624-b3cb-a4a0441904e9">
+                    <propertyInstance
+                      Id="953c57b1-8e38-455e-a9d0-fe1fa22e50f0"
+                      name="IsVolatile"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="66f146e0-a14b-464c-afaf-17d323b829b2">
+                    <propertyInstance
+                      Id="ea20bf75-0ee7-4968-acef-255b0bbb563d"
+                      name="PackageVisibility"
+                      value="internal" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <type_NamedElement>
+              <classMoniker
+                Id="ab1b4948-5efb-43d5-b7ac-dcf02030aa24"
+                LastKnownName="Dictionary&lt;FilterColour‎, HSLFiltering‎&gt;"
+                LastKnownLocation="Package6_1737.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="6962ec62-68a8-4d6b-a0b3-d5d633de9ab9"
+            name="objectBackBuffer"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isOrdered="true"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <referencesInternal>
+              <reference
+                Id="6a88a51a-ed3d-49e5-b620-2f6d62e038c3"
+                handle="viewcode://./CodeSchema_Field?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3DobjectBackBuffer"
+                tag="ViewCode" />
+            </referencesInternal>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="8d4440fc-d175-41aa-b5f5-731fe763d00c"
+                name="field"
+                profile="CSharpProfile">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="ba82871e-7ed8-419a-ab2d-1e3331c437f0">
+                    <propertyInstance
+                      Id="d9e5fd3f-443a-413d-92c6-67e3b1cb7289"
+                      name="ClrAttributes" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="c0b80a02-4b5c-4602-87ee-81ec2f4dece1">
+                    <propertyInstance
+                      Id="c9096e08-4dde-49a5-9481-f02e37cbe653"
+                      name="IsConst"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="f728f5fa-b91d-4176-9503-a41b2d8fd70a">
+                    <propertyInstance
+                      Id="926a9304-0d70-4a82-9e8d-eedb920475e7"
+                      name="IsNullable"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="da42bc7d-180d-4557-b772-b77cf680803f">
+                    <propertyInstance
+                      Id="06216766-4131-4817-90df-2a48dbb851ba"
+                      name="IsVolatile"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="195f4720-84fe-4b17-973c-e785c2a29862">
+                    <propertyInstance
+                      Id="35eae449-1e1a-4311-b13e-8670909c2c8a"
+                      name="PackageVisibility"
+                      value="internal" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <lowerValueInternal>
+              <literalString
+                Id="a0bf0b5b-cf04-465d-8b8d-76dac8e27080"
+                name="Lower"
+                value="*" />
+            </lowerValueInternal>
+            <upperValueInternal>
+              <literalString
+                Id="52fea558-b65b-4e4d-bd2a-a7f713d5474b"
+                name="Upper"
+                value="*" />
+            </upperValueInternal>
+            <type_NamedElement>
+              <classMoniker
+                Id="692678e9-68fe-4ad4-a4d0-20863d1f7231"
+                LastKnownName="Rectangle"
+                LastKnownLocation="Package2_1737.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="ffdd4769-e054-43ad-aa02-511d5d135bb2"
+            name="objectFrontBuffer"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isOrdered="true"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <referencesInternal>
+              <reference
+                Id="c235c0a3-11a9-41e4-8f6b-c6e34d4f6228"
+                handle="viewcode://./CodeSchema_Field?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3DobjectFrontBuffer"
+                tag="ViewCode" />
+            </referencesInternal>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="f6c2d86a-14e4-4d16-9570-289a9a8d3559"
+                name="field"
+                profile="CSharpProfile">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="f43081b0-f4d1-4d81-b77e-5fa1f7a51802">
+                    <propertyInstance
+                      Id="8b7c02b7-6f88-4b96-bedd-fa1faf513cd9"
+                      name="ClrAttributes" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="ccb82e2e-7804-4f4a-b460-ef3a119c0ac6">
+                    <propertyInstance
+                      Id="8d730629-7922-42f3-9aa2-97e541074447"
+                      name="IsConst"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="b5b7d6e3-666c-4eca-8c56-0428b490ffaf">
+                    <propertyInstance
+                      Id="c9831691-542f-4a47-93fe-febbc75e5ab0"
+                      name="IsNullable"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="f6d96752-91ef-456e-b122-a1e0b9a2352c">
+                    <propertyInstance
+                      Id="287ab75e-11e8-4b75-a494-7869569ba6ab"
+                      name="IsVolatile"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="5ac94d7b-f245-4995-9e17-067171699a30">
+                    <propertyInstance
+                      Id="f7b0716b-69b8-4831-9a7b-0ede3c414c28"
+                      name="PackageVisibility"
+                      value="internal" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <lowerValueInternal>
+              <literalString
+                Id="4f1d35f7-10d4-40ed-98d5-190df944704c"
+                name="Lower"
+                value="*" />
+            </lowerValueInternal>
+            <upperValueInternal>
+              <literalString
+                Id="e933aed6-35bc-40f9-85ed-662ff5684748"
+                name="Upper"
+                value="*" />
+            </upperValueInternal>
+            <type_NamedElement>
+              <classMoniker
+                Id="692678e9-68fe-4ad4-a4d0-20863d1f7231"
+                LastKnownName="Rectangle"
+                LastKnownLocation="Package2_1737.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="4697fb50-ecb9-4fbe-8fab-d8163b314a28"
+            name="swappingBuffers"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <referencesInternal>
+              <reference
+                Id="08d21471-f64f-47d8-9cf7-ac0d3ca1cfff"
+                handle="viewcode://./CodeSchema_Field?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3DswappingBuffers"
+                tag="ViewCode" />
+            </referencesInternal>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="3030d8ad-2d40-4728-a3db-a9fbbc52dd62"
+                name="field"
+                profile="CSharpProfile">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="aa64aba2-56f1-4b1c-a6b3-ea70da68f970">
+                    <propertyInstance
+                      Id="bd72a49e-3d52-4962-9640-531e5db14cd6"
+                      name="ClrAttributes" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="a5ed55d7-731f-4063-9cfd-095555a97665">
+                    <propertyInstance
+                      Id="532f340f-2088-46ea-9e04-b5e18630b079"
+                      name="IsConst"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="33229105-fbbd-4188-a116-fbf22833394f">
+                    <propertyInstance
+                      Id="ce08cf24-a039-4c38-856a-0e362ff192f6"
+                      name="IsNullable"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="6a43934f-aa4f-4efb-b6f2-85055413d4b8">
+                    <propertyInstance
+                      Id="6553a343-9bc3-4b27-b0ac-6b18f29126dc"
+                      name="IsVolatile"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="d653e921-bc3a-4402-9fad-a7b58573f0a5">
+                    <propertyInstance
+                      Id="1fdf6254-157c-4dd3-b910-c42bf63ed85d"
+                      name="PackageVisibility"
+                      value="internal" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <type_NamedElement>
+              <primitiveTypeMoniker
+                Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+                LastKnownName="Boolean"
+                LastKnownLocation="RobotClasses.uml" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation
+            Id="30bbcb9d-bb90-438d-a774-83f2a5dce0c9"
+            name="GetColourSlicedImage"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <referencesInternal>
+              <reference
+                Id="0e47a6b1-d3e5-4a55-af2a-3d7c62a56e04"
+                handle="viewcode://./CodeSchema_Method?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3D(Name%3DGetColourSlicedImage OverloadingParameters%3D[(Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DFilterColour)])"
+                tag="ViewCode" />
+            </referencesInternal>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="5e9e8d5c-8b17-40eb-8068-5d2fdf4674aa"
+                name="method"
+                profile="CSharpProfile">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="6234aea5-27f1-408f-986b-ec2d701551bc">
+                    <propertyInstance
+                      Id="c0f120fb-cd1a-43d5-9f05-c8a26e1aa58e"
+                      name="ClrAttributes" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="a861ff5d-717e-4732-9d44-fac6d548943c">
+                    <propertyInstance
+                      Id="d1bb32c4-80f4-42aa-a383-387ba37ef6a7"
+                      name="IsPartial"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="e0619dd1-b749-40d0-b204-cff1a7203ed0">
+                    <propertyInstance
+                      Id="51f9fae7-e0b8-4980-85c3-3acfe5809ee6"
+                      name="IsUnsafe"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="aa7098f2-74ff-4758-953f-a5a2c4f9d33b">
+                    <propertyInstance
+                      Id="a9b21f99-313b-427a-92c8-1cca2c95330b"
+                      name="Inheritance"
+                      value="none" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="f287ea8e-8666-479c-8f54-abdc2debbc6d">
+                    <propertyInstance
+                      Id="6b552b79-881d-40ce-a243-30eb0adecc2e"
+                      name="PackageVisibility"
+                      value="internal" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="45c5973f-6e43-43f2-9f4e-c03b89cb33a4">
+                    <propertyInstance
+                      Id="63209c71-4810-410b-8e8e-7e437fbe7251"
+                      name="params"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="5450d7f9-3754-4715-9b47-e98565a21efd"
+                  direction="Return">
+                  <type_NamedElement>
+                    <classMoniker
+                      Id="3b56d7e8-2118-4305-a4a5-8392e272d745"
+                      LastKnownName="Bitmap"
+                      LastKnownLocation="Package2_1737.uml" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="54b85e31-25e4-427b-9abc-740531cfa7ca"
+                  name="colour"
+                  direction="In">
+                  <referencesInternal>
+                    <reference
+                      Id="fc332101-5922-49dc-8b32-4cf73b4f501b"
+                      handle="viewcode://./CodeSchema_Parameter?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3D(Name%3DGetColourSlicedImage OverloadingParameters%3D[(Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DFilterColour)]) ParameterIdentifier%3Dcolour"
+                      tag="ViewCode" />
+                  </referencesInternal>
+                  <type_NamedElement>
+                    <enumerationMoniker
+                      Id="f838c654-a5c1-41b8-a673-f28c78355b18"
+                      LastKnownName="FilterColour"
+                      LastKnownLocation="Package_1738.uml" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation
+            Id="1f0f8e40-bb08-4e29-8ab6-2df5a36bf384"
+            name="ProcessImages"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <referencesInternal>
+              <reference
+                Id="a8a29e8d-5175-4cbf-a7ae-aa970c50fbe1"
+                handle="viewcode://./CodeSchema_Method?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3D(Name%3DProcessImages OverloadingParameters%3D[(Assembly%3Dfile:%2F%2F%2FC:%2FWindows%2FMicrosoft.NET%2FFramework%2Fv2.0.50727%2FSystem.Drawing.dll Namespace%3DSystem.Drawing Type%3DBitmap)%2C(Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3D(Name%3DFilterColour ArrayRank%3D1 ParentType%3DFilterColour))])"
+                tag="ViewCode" />
+            </referencesInternal>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="aec81a8e-2d4f-4344-bd6d-57ebc9476cd9"
+                name="method"
+                profile="CSharpProfile">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="873d13d9-e9fc-498c-bd5e-607346210ec5">
+                    <propertyInstance
+                      Id="afd9a3a8-c403-4821-9b7d-3a751b23728d"
+                      name="ClrAttributes" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="5a38bf84-6e66-4982-9f4b-c6afe9c959ec">
+                    <propertyInstance
+                      Id="1c91d3e2-2e2e-45fe-ad9a-4606d3988e3e"
+                      name="IsPartial"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="9c18ff09-fde4-43e2-97c7-8b1c0c714649">
+                    <propertyInstance
+                      Id="4ab03c9e-d833-428f-a56a-e75ea7a993ae"
+                      name="IsUnsafe"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="fbc99d63-66c6-4f0e-87e4-3212a9e5d122">
+                    <propertyInstance
+                      Id="849a051d-7e9c-49a5-a4d1-d8038d521657"
+                      name="Inheritance"
+                      value="none" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="a6d63d10-fd62-434e-bf60-1d6797a25083">
+                    <propertyInstance
+                      Id="b4d0aa01-8632-45fc-a226-c8c5ddbc0074"
+                      name="PackageVisibility"
+                      value="internal" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="f3c64a9c-1056-49aa-90c5-66301575f397">
+                    <propertyInstance
+                      Id="b0e54260-c34c-472a-aa6d-ab8b06a13b3b"
+                      name="params"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="8a749608-0c43-4f47-9fe3-035c56b6451a"
+                  name="image"
+                  direction="In">
+                  <referencesInternal>
+                    <reference
+                      Id="e3f7c7fd-7853-4186-876e-73d87f30fe42"
+                      handle="viewcode://./CodeSchema_Parameter?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3D(Name%3DProcessImages OverloadingParameters%3D[(Assembly%3Dfile:%2F%2F%2FC:%2FWindows%2FMicrosoft.NET%2FFramework%2Fv2.0.50727%2FSystem.Drawing.dll Namespace%3DSystem.Drawing Type%3DBitmap)%2C(Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3D(Name%3DFilterColour ArrayRank%3D1 ParentType%3DFilterColour))]) ParameterIdentifier%3Dimage"
+                      tag="ViewCode" />
+                  </referencesInternal>
+                  <type_NamedElement>
+                    <classMoniker
+                      Id="3b56d7e8-2118-4305-a4a5-8392e272d745"
+                      LastKnownName="Bitmap"
+                      LastKnownLocation="Package2_1737.uml" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="f1806a68-abc1-4338-bef6-ece5e3ccb09c"
+                  name="colours"
+                  direction="In"
+                  isOrdered="true">
+                  <referencesInternal>
+                    <reference
+                      Id="5f2cfac9-7e1f-4c05-a2b2-2174183ab42d"
+                      handle="viewcode://./CodeSchema_Parameter?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3D(Name%3DProcessImages OverloadingParameters%3D[(Assembly%3Dfile:%2F%2F%2FC:%2FWindows%2FMicrosoft.NET%2FFramework%2Fv2.0.50727%2FSystem.Drawing.dll Namespace%3DSystem.Drawing Type%3DBitmap)%2C(Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3D(Name%3DFilterColour ArrayRank%3D1 ParentType%3DFilterColour))]) ParameterIdentifier%3Dcolours"
+                      tag="ViewCode" />
+                  </referencesInternal>
+                  <lowerValueInternal>
+                    <literalString
+                      Id="1be7ad0f-9739-48b3-81a0-85caa637fad1"
+                      name="Lower"
+                      value="*" />
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString
+                      Id="502669b0-6990-4382-b33b-ada4d96f06a1"
+                      name="Upper"
+                      value="*" />
+                  </upperValueInternal>
+                  <type_NamedElement>
+                    <classMoniker
+                      Id="0713e9ef-b8aa-4447-adf5-b3aa75687d89"
+                      LastKnownName="FilterColour"
+                      LastKnownLocation="Package_1738.uml" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation
+            Id="6a723097-dce8-4582-a023-c3fb434c6541"
+            name="getObjectRectangle"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <referencesInternal>
+              <reference
+                Id="0e53c1d0-97bd-4549-9442-57b73bc30713"
+                handle="viewcode://./CodeSchema_Method?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3D(Name%3DgetObjectRectangle OverloadingParameters%3D[(Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DFilterColour)])"
+                tag="ViewCode" />
+            </referencesInternal>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="71e8aaeb-97a0-46ff-9189-87224dc5431c"
+                name="method"
+                profile="CSharpProfile">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="2a6f7341-824a-4619-b579-5cfff0c5fc5f">
+                    <propertyInstance
+                      Id="31853a83-08bb-479f-ac08-150312cd705e"
+                      name="ClrAttributes" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="4b870671-fc43-439c-ac27-bdf8205cc059">
+                    <propertyInstance
+                      Id="8fea9fc2-2bd1-4588-af7d-146fde11bec2"
+                      name="IsPartial"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="577fa55d-dafc-4d04-95c1-bd2f5041c5f9">
+                    <propertyInstance
+                      Id="2c64b112-5008-41ad-8971-1e9cf5277ad0"
+                      name="IsUnsafe"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="0b3d6498-a1dd-4ca4-a6ab-a7727febfbcb">
+                    <propertyInstance
+                      Id="ad9ac406-c566-4f72-a62a-d06791c114c6"
+                      name="Inheritance"
+                      value="none" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="1c8fee5a-5f98-47d3-a25b-b6cd3c3fcfec">
+                    <propertyInstance
+                      Id="5c9a08ae-66f7-4aa4-884a-6e6aeaa6f7ee"
+                      name="PackageVisibility"
+                      value="internal" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="23b52ed4-516d-4478-894a-12be711aa6f5">
+                    <propertyInstance
+                      Id="7f446949-eb22-4c3f-89f6-30cfebc1b072"
+                      name="params"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="fd1ce358-2835-4e77-a0ca-09829b10c5f9"
+                  direction="Return">
+                  <type_NamedElement>
+                    <classMoniker
+                      Id="692678e9-68fe-4ad4-a4d0-20863d1f7231"
+                      LastKnownName="Rectangle"
+                      LastKnownLocation="Package2_1737.uml" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="ff5981fc-9832-4faf-ac54-1b01a5fc73f5"
+                  name="colour"
+                  direction="In">
+                  <referencesInternal>
+                    <reference
+                      Id="bf0fcc5d-ba1f-49a3-8582-7eae76f549cc"
+                      handle="viewcode://./CodeSchema_Parameter?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3D(Name%3DgetObjectRectangle OverloadingParameters%3D[(Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DFilterColour)]) ParameterIdentifier%3Dcolour"
+                      tag="ViewCode" />
+                  </referencesInternal>
+                  <type_NamedElement>
+                    <enumerationMoniker
+                      Id="f838c654-a5c1-41b8-a673-f28c78355b18"
+                      LastKnownName="FilterColour"
+                      LastKnownLocation="Package_1738.uml" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation
+            Id="21e5e0b7-8274-4a70-9b06-f73ade4efce0"
+            name="ImageProcessor"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <referencesInternal>
+              <reference
+                Id="2f611625-f82c-4712-bed4-3584f1ef1179"
+                handle="viewcode://./CodeSchema_Method?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3D.ctor"
+                tag="ViewCode" />
+            </referencesInternal>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="e4115632-6ce6-4a12-bef5-a6bcf0a3e595"
+                name="method"
+                profile="CSharpProfile">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="a39969ba-8d1f-494e-aa5e-030701320e88">
+                    <propertyInstance
+                      Id="f19b4dac-56da-4ec0-b513-d7868d21507b"
+                      name="ClrAttributes" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="4edcc34f-ced9-4181-9cc0-5a32f8fe6c30">
+                    <propertyInstance
+                      Id="e0b279ba-361f-4ca1-aaf8-6262283c4245"
+                      name="IsPartial"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="0c694031-168a-4b11-87e5-ea4a36a37572">
+                    <propertyInstance
+                      Id="c3fcbd14-647c-4d51-b6e3-f15d0865cbe1"
+                      name="IsUnsafe"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="ac27a47f-2e9f-40c1-9786-15bedb0c30d6">
+                    <propertyInstance
+                      Id="4e59e728-2565-4efa-8fa9-ce7049f52eeb"
+                      name="Inheritance"
+                      value="none" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="15ec032e-7bc0-4a65-aae3-128cd4f4684f">
+                    <propertyInstance
+                      Id="bef633b8-84f4-4c96-884c-8253517a2360"
+                      name="PackageVisibility"
+                      value="internal" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="e1e38ded-3207-4609-ac59-d1dada48af66">
+                    <propertyInstance
+                      Id="e1825a82-9aa7-4e3f-bcb3-aa6de01cff17"
+                      name="params"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+          </operation>
+          <operation
+            Id="28dae360-2000-4b37-945d-8a282db5ebe2"
+            name="SetUpColours"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <referencesInternal>
+              <reference
+                Id="2a3eff06-b895-40db-a767-93a94eb2daac"
+                handle="viewcode://./CodeSchema_Method?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DImageProcessor Member%3DSetUpColours"
+                tag="ViewCode" />
+            </referencesInternal>
+            <appliedStereotypesInternal>
+              <stereotypeInstance
+                Id="3b5dbc2a-3a16-48d3-bb48-91ee7f15ab54"
+                name="method"
+                profile="CSharpProfile">
+                <propertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="b6374001-0a46-4df4-8ed3-7feaed896905">
+                    <propertyInstance
+                      Id="9307eaa6-77af-44c5-a04a-7478a007c3d9"
+                      name="ClrAttributes" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="7ac47d33-dcf0-46c0-b0a7-b7cdead9fdf3">
+                    <propertyInstance
+                      Id="3bc15859-49f9-4b41-9e60-2da8e57b9a62"
+                      name="IsPartial"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="4dcebea0-e2c1-45a4-8e27-25cd49c08e6d">
+                    <propertyInstance
+                      Id="86ff0283-9de1-4597-a7cb-541ed435e53c"
+                      name="IsUnsafe"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="ff162a67-2bd5-4b43-8d60-76c6efe98087">
+                    <propertyInstance
+                      Id="5e8f40ed-d11e-4b0e-9996-d078ba24b435"
+                      name="Inheritance"
+                      value="none" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="6b85ab11-f1dd-42ab-b72f-6a553bc560ff">
+                    <propertyInstance
+                      Id="2e44b975-62d4-4a50-9a08-3ec358e7e1ff"
+                      name="PackageVisibility"
+                      value="internal" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="797570c2-a636-4485-b4c7-cab012b86a0a">
+                    <propertyInstance
+                      Id="a241e3d2-e8f7-4b27-b988-fdeec3d04ec5"
+                      name="params"
+                      value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                </propertyInstances>
+              </stereotypeInstance>
+            </appliedStereotypesInternal>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <enumeration
+        Id="f838c654-a5c1-41b8-a673-f28c78355b18"
+        name="FilterColour"
+        isAbstract="false"
+        isLeaf="false">
+        <referencesInternal>
+          <reference
+            Id="769ca739-54d8-4885-a40b-a7d670a3c29a"
+            handle="viewcode://./CodeSchema_Enum?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3DFilterColour"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="bef89d44-ce50-4f6d-9d53-512d5054b250"
+            name="enum"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="b8d8e446-6053-4360-89ee-a110907f9702">
+                <propertyInstance
+                  Id="636cb78e-3201-43a0-92c1-24dd29091e96"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="74f18f8c-0eff-4191-bd97-ced82cc6ceb1">
+                <propertyInstance
+                  Id="4f03ea81-d855-4b6a-ba2c-66eca25e12f6"
+                  name="BaseType"
+                  value="int" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="6ec970d5-8975-4a61-ad35-aadb836fb817">
+                <propertyInstance
+                  Id="81796e8e-5be2-4db8-9eca-b5c8c19035e4"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </enumeration>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="0713e9ef-b8aa-4447-adf5-b3aa75687d89"
+        name="FilterColour"
+        visibility="Private"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="db6ef355-bc82-4270-8fe5-0b859528987c"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FG:%2FUni%2FYear three%2FVision and Robotics%2FRobotics%2FCMP3641M Robotics workshop 2%2FWorkshop 2%2FWorkshop 2 - Forms%2Fbin%2FDebug%2FWorkshop 2 - Forms.exe&quot; Namespace%3DRovio Type%3D(Name%3DFilterColour ArrayRank%3D1 ParentType%3DFilterColour)"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="76774701-a089-4d7e-a697-5532a925a065"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="5cab15c4-6bd8-450f-8d30-f2af1164affa">
+                <propertyInstance
+                  Id="bd343443-a126-4244-bb32-d7d075ff29b0"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="6d778e39-0672-42fe-b1fb-bc891b36618b">
+                <propertyInstance
+                  Id="db4e7286-db7f-43df-907a-b9496d36ee8d"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="a1043432-9e05-4ce6-9f83-6057b4d3fee9">
+                <propertyInstance
+                  Id="bff22ee3-a1c5-498c-98ec-5051d838566e"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="3317504b-e6d6-4a83-93d1-e435fe913026">
+                <propertyInstance
+                  Id="e4a915e1-b76c-4025-9d34-3715d8b3994f"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="9f2553de-9c26-41aa-9769-0ee49c952023">
+                <propertyInstance
+                  Id="9efd2dfd-4cfa-483e-8564-a3ca30b57585"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

@@ -1,0 +1,10 @@
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.exe
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.pdb
+C:\Users\Sam\Desktop\Software dev assignment\Assignment\obj\x86\Debug\Assignment.exe
+C:\Users\Sam\Desktop\Software dev assignment\Assignment\obj\x86\Debug\Assignment.pdb
+C:\Users\Sam\Desktop\Software dev assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Sam\Desktop\Software dev assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Sam\Desktop\Software dev assignment\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache

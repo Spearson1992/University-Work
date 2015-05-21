@@ -1,0 +1,37 @@
+﻿Build started 19/01/2014 18:36:56.
+     1>Project "G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Workshop 3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\NVIDIA Corporation\NVIDIA PhysX SDK\3.3.0\\Include" /I.\Graphics\include\win32\ /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt VisualDebugger.cpp
+         VisualDebugger.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\Assignment 1.exe" /NOLOGO /LIBPATH:"C:\Program Files (x86)\NVIDIA Corporation\NVIDIA PhysX SDK\3.3.0\\Lib\win32" /LIBPATH:.\Graphics\lib\win32\glut PhysX3DEBUG_x86.lib PhysX3CommonDEBUG_x86.lib PhysX3ExtensionsDEBUG.lib PhysXVisualDebuggerSDKDEBUG.lib PhysX3CookingDEBUG_x86.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCMTD /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\Assignment 1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\Assignment 1.lib" /MACHINE:X86 /SAFESEH Debug\Joints.obj
+         Debug\Shapes.obj
+         Debug\PhysicsEngine.obj
+         Debug\VisualDebugger.obj
+         "Debug\Assignment 1.obj"
+         Debug\Camera.obj
+         Debug\GLFontRenderer.obj
+         Debug\Renderer.obj
+     1>Joints.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     1>PhysX3ExtensionsDEBUG.lib(ExtCpuWorkerThread.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtCpuWorkerThread.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtDefaultCpuDispatcher.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtDefaultCpuDispatcher.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtDefaultErrorCallback.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtDefaultErrorCallback.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtDefaultSimulationFilterShader.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtDefaultSimulationFilterShader.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtDefaultStreams.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtDefaultStreams.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtDistanceJoint.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtDistanceJoint.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtDistanceJointSolverPrep.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtDistanceJointSolverPrep.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtJoint.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtJoint.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtPvdClientImpl.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtPvdClientImpl.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtRevoluteJoint.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtRevoluteJoint.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtRevoluteJointSolverPrep.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtRevoluteJointSolverPrep.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtRigidBodyExt.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtRigidBodyExt.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtSimpleFactory.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtSimpleFactory.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(ExtVisualDebugger.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(ExtVisualDebugger.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysX3ExtensionsDEBUG.lib(PxExtensionAutoGeneratedMetaDataObjects.obj) : warning LNK4099: PDB 'physx3extensionsdebug.pdb' was not found with 'PhysX3ExtensionsDEBUG.lib(PxExtensionAutoGeneratedMetaDataObjects.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physx3extensionsdebug.pdb'; linking object as if no debug info
+     1>PhysXVisualDebuggerSDKDEBUG.lib(PvdNetworkStreams.obj) : warning LNK4099: PDB 'physxvisualdebuggersdkdebug.pdb' was not found with 'PhysXVisualDebuggerSDKDEBUG.lib(PvdNetworkStreams.obj)' or at 'G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\physxvisualdebuggersdkdebug.pdb'; linking object as if no debug info
+         Workshop 3.vcxproj -> G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Debug\Assignment 1.exe
+     1>Done Building Project "G:\Uni\Year three\Game engines\Workshop 3\Assignment 1\Workshop 3\Workshop 3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:23.62

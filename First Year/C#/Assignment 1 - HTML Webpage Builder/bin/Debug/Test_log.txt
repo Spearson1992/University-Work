@@ -1,0 +1,80 @@
+===========18/01/2012 17:12:10==========
+Simulating file read error
+readFile function executing...
+File read failed
+Execution complete
+===========18/01/2012 17:13:01==========
+Simulating file write error
+readFile function executing...
+Populating Dictionary
+Removing blank lines
+Removing non-hashtags
+File read successfully, dictionary populated
+Number of hashtags in dictionary: 14984
+writeFile function executing
+Counting unique tweets and total characters...
+Counting complete, test passed
+Total unique tags: 4293
+IO Exception caught, file creation failed
+Execution complete
+===========18/01/2012 17:24:19==========
+Simulating blank file
+readFile function executing...
+Populating Dictionary
+Removing blank lines
+File read successfully, dictionary populated
+Number of hashtags in dictionary: 0
+writeFile function executing
+Counting unique tweets and total characters...
+Counting complete, test passed
+Total unique tags: 0
+Writing HTML file...
+Divide by zero exception caught, blank file read
+Execution complete
+===========18/01/2012 17:26:10==========
+Simulating file not found
+readFile function executing...
+Catch block executing, file not found exception
+Execution complete
+===========18/01/2012 17:28:26==========
+Executing with known data
+readFile function executing...
+Populating Dictionary
+Removing blank lines
+File read successfully, dictionary populated
+Number of hashtags in dictionary: 3
+writeFile function executing
+Counting unique tweets and total characters...
+Counting complete, test passed
+Total unique tags: 3
+Writing HTML file...
+file created successfully
+Execution complete
+===========18/01/2012 17:33:58==========
+Removing non hashtags
+readFile function executing...
+Populating Dictionary
+Removing blank lines
+File read successfully, dictionary populated
+Number of hashtags in dictionary: 3
+writeFile function executing
+Counting unique tweets and total characters...
+Counting complete, test passed
+Total unique tags: 3
+Writing HTML file...
+file created successfully
+Execution complete
+===========18/01/2012 17:34:53==========
+Leaving non hashtags in
+readFile function executing...
+Populating Dictionary
+Removing blank lines
+File read successfully, dictionary populated
+Number of hashtags in dictionary: 5
+writeFile function executing
+Counting unique tweets and total characters...
+Counting complete, test passed
+Total unique tags: 5
+Writing HTML file...
+file created successfully
+Execution complete
